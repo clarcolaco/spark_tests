@@ -1,4 +1,4 @@
-### Project made for studies
+# Project made for studies
 
-# - Using spark dataframes
-# - Spark methods
+- Using spark dataframes
+- Spark methods
